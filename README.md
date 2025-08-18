@@ -210,7 +210,7 @@ MIT License — Free to use and modify.
 
 ---
 
-Made with ⚡ by [Your Name](https://github.com/<your-username>)
+Made with ⚡ by [Henry !!](https://github.com/henryzx27)
 
 ```
 
